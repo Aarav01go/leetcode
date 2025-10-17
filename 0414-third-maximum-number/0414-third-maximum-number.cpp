@@ -19,9 +19,7 @@ public:
                     third=num;
                  }
         }
-       unordered_set<int> s(nums.begin(), nums.end());
-        if (s.size() < 3) return (int)first; 
-        return (int)third;
-        
+       return (third == LONG_MIN) ? (int)first : (int)third;
     }
+    
 };
