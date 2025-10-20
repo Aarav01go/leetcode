@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aarav01go/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0169-majority-element](https://github.com/Aarav01go/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aarav01go/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Aarav01go/leetcode/tree/master/0268-missing-number) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aarav01go/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/Aarav01go/leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
