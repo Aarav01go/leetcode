@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Aarav01go/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Aarav01go/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2169-simple-bank-system](https://github.com/Aarav01go/leetcode/tree/master/2169-simple-bank-system) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Aarav01go/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Aarav01go/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Enumeration
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aarav01go/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Aarav01go/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Aarav01go/leetcode/tree/master/0342-power-of-four) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Aarav01go/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Aarav01go/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Search
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Aarav01go/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Aarav01go/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Aarav01go/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Aarav01go/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Stack
 |  |
@@ -113,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/Aarav01go/leetcode/tree/master/2169-simple-bank-system) |
+## Matrix
+|  |
+| ------- |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Aarav01go/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 <!---LeetCode Topics End-->
