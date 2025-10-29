@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Aarav01go/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0860-design-circular-queue](https://github.com/Aarav01go/leetcode/tree/master/0860-design-circular-queue) |
 | [1656-count-good-triplets](https://github.com/Aarav01go/leetcode/tree/master/1656-count-good-triplets) |
+| [1791-richest-customer-wealth](https://github.com/Aarav01go/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aarav01go/leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2048-build-array-from-permutation](https://github.com/Aarav01go/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Aarav01go/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Aarav01go/leetcode/tree/master/0048-rotate-image) |
+| [1791-richest-customer-wealth](https://github.com/Aarav01go/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aarav01go/leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Aarav01go/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Dynamic Programming
