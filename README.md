@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Aarav01go/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Aarav01go/leetcode/tree/master/0342-power-of-four) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Aarav01go/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2491-smallest-even-multiple](https://github.com/Aarav01go/leetcode/tree/master/2491-smallest-even-multiple) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aarav01go/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Aarav01go/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Aarav01go/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2491-smallest-even-multiple](https://github.com/Aarav01go/leetcode/tree/master/2491-smallest-even-multiple) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Aarav01go/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Design
 |  |
