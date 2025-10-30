@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aarav01go/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Aarav01go/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Aarav01go/leetcode/tree/master/0342-power-of-four) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Aarav01go/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Aarav01go/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2383-add-two-integers](https://github.com/Aarav01go/leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Aarav01go/leetcode/tree/master/2491-smallest-even-multiple) |
