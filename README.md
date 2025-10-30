@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Aarav01go/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Aarav01go/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2714-left-and-right-sum-differences](https://github.com/Aarav01go/leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Aarav01go/leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aarav01go/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Enumeration
 |  |
