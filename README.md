@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aarav01go/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aarav01go/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Aarav01go/leetcode/tree/master/0268-missing-number) |
+| [0782-jewels-and-stones](https://github.com/Aarav01go/leetcode/tree/master/0782-jewels-and-stones) |
 | [2169-simple-bank-system](https://github.com/Aarav01go/leetcode/tree/master/2169-simple-bank-system) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Aarav01go/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aarav01go/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0782-jewels-and-stones](https://github.com/Aarav01go/leetcode/tree/master/0782-jewels-and-stones) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Aarav01go/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Aarav01go/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Aarav01go/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
