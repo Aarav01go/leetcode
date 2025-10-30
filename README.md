@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/Aarav01go/leetcode/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Aarav01go/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Aarav01go/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2714-left-and-right-sum-differences](https://github.com/Aarav01go/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aarav01go/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Enumeration
 |  |
@@ -156,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/Aarav01go/leetcode/tree/master/0860-design-circular-queue) |
+## Prefix Sum
+|  |
+| ------- |
+| [2714-left-and-right-sum-differences](https://github.com/Aarav01go/leetcode/tree/master/2714-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
