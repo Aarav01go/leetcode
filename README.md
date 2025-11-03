@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aarav01go/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/Aarav01go/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aarav01go/leetcode/tree/master/0054-spiral-matrix) |
+| [0136-single-number](https://github.com/Aarav01go/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Aarav01go/leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aarav01go/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Aarav01go/leetcode/tree/master/0217-contains-duplicate) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Aarav01go/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Aarav01go/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Aarav01go/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Aarav01go/leetcode/tree/master/0231-power-of-two) |
