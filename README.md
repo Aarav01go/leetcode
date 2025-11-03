@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Aarav01go/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aarav01go/leetcode/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/Aarav01go/leetcode/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Aarav01go/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Aarav01go/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Aarav01go/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Aarav01go/leetcode/tree/master/0414-third-maximum-number) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aarav01go/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Aarav01go/leetcode/tree/master/0069-sqrtx) |
+| [0209-minimum-size-subarray-sum](https://github.com/Aarav01go/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Aarav01go/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Aarav01go/leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Aarav01go/leetcode/tree/master/0374-guess-number-higher-or-lower) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Aarav01go/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [2714-left-and-right-sum-differences](https://github.com/Aarav01go/leetcode/tree/master/2714-left-and-right-sum-differences) |
 ## Greedy
 |  |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aarav01go/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Aarav01go/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Geometry
 |  |
 | ------- |
