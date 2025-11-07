@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aarav01go/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Aarav01go/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Aarav01go/leetcode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Aarav01go/leetcode/tree/master/0367-valid-perfect-square) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Aarav01go/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Aarav01go/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Aarav01go/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Aarav01go/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Aarav01go/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Aarav01go/leetcode/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/Aarav01go/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Aarav01go/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/Aarav01go/leetcode/tree/master/0792-binary-search) |
 ## Bit Manipulation
