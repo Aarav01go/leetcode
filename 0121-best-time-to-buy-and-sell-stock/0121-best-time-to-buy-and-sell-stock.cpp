@@ -6,11 +6,10 @@ public:
 
         for (int price : prices) {
             if (price < minPrice) 
-                minPrice = price;             // new best buy
+                minPrice = price;             
             else if (price - minPrice > maxProfit) 
-                maxProfit = price - minPrice; // new best profit
+                maxProfit = price - minPrice;
         }
-
         return maxProfit;
     }
 };
