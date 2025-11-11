@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Aarav01go/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Aarav01go/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Aarav01go/leetcode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Aarav01go/leetcode/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/Aarav01go/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aarav01go/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Aarav01go/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aarav01go/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aarav01go/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Aarav01go/leetcode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Aarav01go/leetcode/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/Aarav01go/leetcode/tree/master/0414-third-maximum-number) |
 | [1306-minimum-absolute-difference](https://github.com/Aarav01go/leetcode/tree/master/1306-minimum-absolute-difference) |
 ## Counting
@@ -269,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Aarav01go/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Aarav01go/leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
