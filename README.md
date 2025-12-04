@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Aarav01go/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aarav01go/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Aarav01go/leetcode/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/Aarav01go/leetcode/tree/master/0057-insert-interval) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aarav01go/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Aarav01go/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aarav01go/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
