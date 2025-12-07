@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Aarav01go/leetcode/tree/master/1656-count-good-triplets) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aarav01go/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1791-richest-customer-wealth](https://github.com/Aarav01go/leetcode/tree/master/1791-richest-customer-wealth) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Aarav01go/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aarav01go/leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2048-build-array-from-permutation](https://github.com/Aarav01go/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Aarav01go/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/Aarav01go/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [1656-count-good-triplets](https://github.com/Aarav01go/leetcode/tree/master/1656-count-good-triplets) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Aarav01go/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Aarav01go/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Hash Table
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Aarav01go/leetcode/tree/master/0367-valid-perfect-square) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Aarav01go/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Aarav01go/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Aarav01go/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Aarav01go/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Aarav01go/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/Aarav01go/leetcode/tree/master/2383-add-two-integers) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Aarav01go/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Aarav01go/leetcode/tree/master/0342-power-of-four) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Aarav01go/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Aarav01go/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Aarav01go/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## String
 |  |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Aarav01go/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Aarav01go/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
@@ -311,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Aarav01go/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Aarav01go/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Breadth-First Search
 |  |
 | ------- |
