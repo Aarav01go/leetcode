@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Aarav01go/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Aarav01go/leetcode/tree/master/0414-third-maximum-number) |
 | [1306-minimum-absolute-difference](https://github.com/Aarav01go/leetcode/tree/master/1306-minimum-absolute-difference) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Aarav01go/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Counting
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Aarav01go/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aarav01go/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/Aarav01go/leetcode/tree/master/1925-count-square-sum-triples) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Aarav01go/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Aarav01go/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Aarav01go/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/Aarav01go/leetcode/tree/master/2383-add-two-integers) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/Aarav01go/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aarav01go/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aarav01go/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Aarav01go/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Aarav01go/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sliding Window
 |  |
