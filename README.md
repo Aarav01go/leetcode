@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Aarav01go/leetcode/tree/master/0022-generate-parentheses) |
 | [0782-jewels-and-stones](https://github.com/Aarav01go/leetcode/tree/master/0782-jewels-and-stones) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Aarav01go/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aarav01go/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aarav01go/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Aarav01go/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Aarav01go/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Aarav01go/leetcode/tree/master/0055-jump-game) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Aarav01go/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aarav01go/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aarav01go/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Aarav01go/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sliding Window
