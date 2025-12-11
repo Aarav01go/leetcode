@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Aarav01go/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1306-minimum-absolute-difference](https://github.com/Aarav01go/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Aarav01go/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Aarav01go/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1580-shuffle-the-array](https://github.com/Aarav01go/leetcode/tree/master/1580-shuffle-the-array) |
 | [1656-count-good-triplets](https://github.com/Aarav01go/leetcode/tree/master/1656-count-good-triplets) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aarav01go/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Aarav01go/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Aarav01go/leetcode/tree/master/0414-third-maximum-number) |
 | [1306-minimum-absolute-difference](https://github.com/Aarav01go/leetcode/tree/master/1306-minimum-absolute-difference) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Aarav01go/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Aarav01go/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Counting
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Aarav01go/leetcode/tree/master/0367-valid-perfect-square) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Aarav01go/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Aarav01go/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Aarav01go/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aarav01go/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/Aarav01go/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Aarav01go/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Aarav01go/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Aarav01go/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Aarav01go/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Aarav01go/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aarav01go/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aarav01go/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Aarav01go/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -345,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Aarav01go/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Aarav01go/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
