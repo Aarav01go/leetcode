@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aarav01go/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aarav01go/leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aarav01go/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0046-permutations](https://github.com/Aarav01go/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Aarav01go/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aarav01go/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Aarav01go/leetcode/tree/master/0055-jump-game) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aarav01go/leetcode/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Aarav01go/leetcode/tree/master/0046-permutations) |
 | [0797-all-paths-from-source-to-target](https://github.com/Aarav01go/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aarav01go/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Breadth-First Search
