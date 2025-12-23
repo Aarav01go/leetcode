@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0654-maximum-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/Aarav01go/leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0654-maximum-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/Aarav01go/leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Graph
 |  |
 | ------- |
