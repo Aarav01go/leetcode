@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Aarav01go/leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Aarav01go/leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Aarav01go/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0078-subsets](https://github.com/Aarav01go/leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aarav01go/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Aarav01go/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aarav01go/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Aarav01go/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Aarav01go/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Aarav01go/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Aarav01go/leetcode/tree/master/0191-number-of-1-bits) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aarav01go/leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Aarav01go/leetcode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Aarav01go/leetcode/tree/master/0078-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/Aarav01go/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aarav01go/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Breadth-First Search
