@@ -7,7 +7,7 @@ public:
             if (n % i == 0) {
                 ans.push_back(i);
 
-                if (i != n / i) {   // avoid duplicate when i*i == n
+                if (i != n / i) {
                     ans.push_back(n / i);
                 }
             }
