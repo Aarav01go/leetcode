@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/Aarav01go/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1791-richest-customer-wealth](https://github.com/Aarav01go/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aarav01go/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Aarav01go/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aarav01go/leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2048-build-array-from-permutation](https://github.com/Aarav01go/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Aarav01go/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Aarav01go/leetcode/tree/master/0414-third-maximum-number) |
 | [1306-minimum-absolute-difference](https://github.com/Aarav01go/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Aarav01go/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Aarav01go/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Aarav01go/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2785-sort-vowels-in-a-string](https://github.com/Aarav01go/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Aarav01go/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aarav01go/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aarav01go/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1652-defuse-the-bomb](https://github.com/Aarav01go/leetcode/tree/master/1652-defuse-the-bomb) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Aarav01go/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Geometry
 |  |
 | ------- |
