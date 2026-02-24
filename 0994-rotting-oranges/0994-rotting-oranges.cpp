@@ -1,8 +1,3 @@
-#include <queue>
-#include <vector>
-
-using namespace std;
-
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
@@ -39,8 +34,7 @@ public:
                     int nr = r + dr;
                     int nc = c + dc;
 
-                    if (nr >= 0 && nr < rows && nc >= 0 && nc < cols &&
-                        grid[nr][nc] == 1) {
+                    if (nr >= 0 && nr < rows && nc >= 0 && nc < cols &&grid[nr][nc] == 1) {
                         grid[nr][nc] = 2;
                         fresh_count--;
                         q.push({nr, nc});
