@@ -9,6 +9,6 @@ public:
                 else s[i+1]='1';
             }
         }
-        return min(cnt, (int)s.size() - cnt);
+        return min(cnt,(int)s.size() - cnt);
     }
 };
