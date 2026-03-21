@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Aarav01go/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aarav01go/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3637-trionic-array-i](https://github.com/Aarav01go/leetcode/tree/master/3637-trionic-array-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Aarav01go/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3668-restore-finishing-order](https://github.com/Aarav01go/leetcode/tree/master/3668-restore-finishing-order) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Aarav01go/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Enumeration
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/Aarav01go/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Aarav01go/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Aarav01go/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Aarav01go/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Simulation
 |  |
 | ------- |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Aarav01go/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Aarav01go/leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Aarav01go/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Aarav01go/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
 |  |
 | ------- |
