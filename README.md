@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/Aarav01go/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1791-richest-customer-wealth](https://github.com/Aarav01go/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aarav01go/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aarav01go/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Aarav01go/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aarav01go/leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2048-build-array-from-permutation](https://github.com/Aarav01go/leetcode/tree/master/2048-build-array-from-permutation) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Aarav01go/leetcode/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aarav01go/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Aarav01go/leetcode/tree/master/1791-richest-customer-wealth) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aarav01go/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aarav01go/leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Aarav01go/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Aarav01go/leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
