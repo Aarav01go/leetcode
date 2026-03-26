@@ -507,4 +507,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1642-furthest-building-you-can-reach](https://github.com/Aarav01go/leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Aarav01go/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Aarav01go/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
