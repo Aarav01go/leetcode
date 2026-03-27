@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Aarav01go/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aarav01go/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Aarav01go/leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Aarav01go/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Aarav01go/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Aarav01go/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Aarav01go/leetcode/tree/master/0268-missing-number) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Aarav01go/leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Aarav01go/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aarav01go/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Aarav01go/leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Aarav01go/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Aarav01go/leetcode/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/Aarav01go/leetcode/tree/master/0709-to-lower-case) |
