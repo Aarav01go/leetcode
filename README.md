@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Aarav01go/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Aarav01go/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0994-rotting-oranges](https://github.com/Aarav01go/leetcode/tree/master/0994-rotting-oranges) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aarav01go/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Aarav01go/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1306-minimum-absolute-difference](https://github.com/Aarav01go/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aarav01go/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aarav01go/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/Aarav01go/leetcode/tree/master/0782-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Aarav01go/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aarav01go/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Aarav01go/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Aarav01go/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2169-simple-bank-system](https://github.com/Aarav01go/leetcode/tree/master/2169-simple-bank-system) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aarav01go/leetcode/tree/master/0169-majority-element) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aarav01go/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Aarav01go/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aarav01go/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Math
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Aarav01go/leetcode/tree/master/0782-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/Aarav01go/leetcode/tree/master/0784-letter-case-permutation) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Aarav01go/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aarav01go/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Aarav01go/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1678-goal-parser-interpretation](https://github.com/Aarav01go/leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aarav01go/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
