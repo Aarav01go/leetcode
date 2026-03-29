@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Aarav01go/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Aarav01go/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2785-sort-vowels-in-a-string](https://github.com/Aarav01go/leetcode/tree/master/2785-sort-vowels-in-a-string) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Aarav01go/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2864-maximum-odd-binary-number](https://github.com/Aarav01go/leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3340-check-balanced-string](https://github.com/Aarav01go/leetcode/tree/master/3340-check-balanced-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Aarav01go/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
