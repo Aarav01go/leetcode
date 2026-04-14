@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Aarav01go/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Aarav01go/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Aarav01go/leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2463-minimum-total-distance-traveled](https://github.com/Aarav01go/leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2714-left-and-right-sum-differences](https://github.com/Aarav01go/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Aarav01go/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2815-max-pair-sum-in-an-array](https://github.com/Aarav01go/leetcode/tree/master/2815-max-pair-sum-in-an-array) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Aarav01go/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Aarav01go/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Aarav01go/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2463-minimum-total-distance-traveled](https://github.com/Aarav01go/leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2785-sort-vowels-in-a-string](https://github.com/Aarav01go/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aarav01go/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Aarav01go/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Aarav01go/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aarav01go/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Aarav01go/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2463-minimum-total-distance-traveled](https://github.com/Aarav01go/leetcode/tree/master/2463-minimum-total-distance-traveled) |
 ## Linked List
 |  |
 | ------- |
