@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Aarav01go/leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Aarav01go/leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Aarav01go/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/Aarav01go/leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Aarav01go/leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aarav01go/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Aarav01go/leetcode/tree/master/0088-merge-sorted-array) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Aarav01go/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Aarav01go/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Aarav01go/leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Aarav01go/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Aarav01go/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Aarav01go/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Aarav01go/leetcode/tree/master/0189-rotate-array) |
