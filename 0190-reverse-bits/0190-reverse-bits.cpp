@@ -1,7 +1,6 @@
 class Solution {
 public:
     int reverseBits(int n) {
-     //   if (n<)
             bitset<32>b(n);
             string x = b.to_string();
             reverse(x.begin(), x.end());
