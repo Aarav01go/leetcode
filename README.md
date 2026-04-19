@@ -510,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Aarav01go/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Aarav01go/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Aarav01go/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/Aarav01go/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0993-cousins-in-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Aarav01go/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Aarav01go/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Aarav01go/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -557,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Aarav01go/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/Aarav01go/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0993-cousins-in-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Aarav01go/leetcode/tree/master/0994-rotting-oranges) |
