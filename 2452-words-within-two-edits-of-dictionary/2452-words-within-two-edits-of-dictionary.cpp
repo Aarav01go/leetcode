@@ -5,14 +5,12 @@ public:
         for ( string q : queries) {
             for ( string d : dictionary) {
                 int diff = 0;
-                
                 for (int k = 0; k < q.size(); k++) {
                     if (q[k] != d[k]) {
                         diff++;
                     }
                     if (diff > 2) break;
                 }
-                
                 if (diff <= 2) {
                     ans.push_back(q);
                     break;
