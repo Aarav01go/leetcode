@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Aarav01go/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aarav01go/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2169-simple-bank-system](https://github.com/Aarav01go/leetcode/tree/master/2169-simple-bank-system) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Aarav01go/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Aarav01go/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Aarav01go/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Aarav01go/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Aarav01go/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Aarav01go/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2169-simple-bank-system](https://github.com/Aarav01go/leetcode/tree/master/2169-simple-bank-system) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Aarav01go/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Aarav01go/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2815-max-pair-sum-in-an-array](https://github.com/Aarav01go/leetcode/tree/master/2815-max-pair-sum-in-an-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aarav01go/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Aarav01go/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aarav01go/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Aarav01go/leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Aarav01go/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/Aarav01go/leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -588,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Aarav01go/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aarav01go/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Aarav01go/leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Aarav01go/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/Aarav01go/leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Graph
 |  |
