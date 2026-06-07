@@ -1,32 +1,26 @@
 class Solution {
-    unordered_map<int, TreeNode*> map;
-    unordered_set<int> kids;
-
 public:
-    TreeNode* find(int v) {
-        if (!map.count(v)) {
-            map[v] = new TreeNode(v);
-        }
-        return map[v];
-    }
+    TreeNode* createBinaryTree(vector<vector<int>>& desc) {
+        unordered_map<int, TreeNode*> m;
+        unordered_set<int> kids;
 
-    void make(int p, int c, int l) {
-        if (l) {
-            find(p)->left = find(c);
-        } else {
-            find(p)->right = find(c);
-        }
-        kids.insert(c);
-    }
+        for (auto& d : desc) {
+            int p = d[0];
+            int c = d[1];
+            int l = d[2];
 
-    TreeNode* createBinaryTree(vector<vector<int>>& descriptions) {
-        for (auto& d : descriptions) {
-            make(d[0], d[1], d[2]);
+            if (!m.count(p)) m[p] = new TreeNode(p);
+            if (!m.count(c)) m[c] = new TreeNode(c);
+
+            if (l) m[p]->left = m[c];
+            else m[p]->right = m[c];
+
+            kids.insert(c);
         }
         
-        for (auto& d : descriptions) {
+        for (auto& d : desc) {
             if (!kids.count(d[0])) {
-                return map[d[0]];
+                return m[d[0]];
             }
         }
         
