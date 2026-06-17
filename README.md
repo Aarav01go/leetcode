@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Aarav01go/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Aarav01go/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Aarav01go/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Aarav01go/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aarav01go/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Aarav01go/leetcode/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/Aarav01go/leetcode/tree/master/0120-triangle) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Aarav01go/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aarav01go/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Aarav01go/leetcode/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/Aarav01go/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Aarav01go/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Aarav01go/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Aarav01go/leetcode/tree/master/0205-isomorphic-strings) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Aarav01go/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Aarav01go/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Aarav01go/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Aarav01go/leetcode/tree/master/0079-word-search) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Aarav01go/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Aarav01go/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0994-rotting-oranges](https://github.com/Aarav01go/leetcode/tree/master/0994-rotting-oranges) |
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Aarav01go/leetcode/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/Aarav01go/leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Aarav01go/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -645,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Aarav01go/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Aarav01go/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Aarav01go/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Aarav01go/leetcode/tree/master/0079-word-search) |
 | [0784-letter-case-permutation](https://github.com/Aarav01go/leetcode/tree/master/0784-letter-case-permutation) |
 | [0797-all-paths-from-source-to-target](https://github.com/Aarav01go/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aarav01go/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
