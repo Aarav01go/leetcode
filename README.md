@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Aarav01go/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aarav01go/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Aarav01go/leetcode/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/Aarav01go/leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Aarav01go/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Aarav01go/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Aarav01go/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Aarav01go/leetcode/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/Aarav01go/leetcode/tree/master/0155-min-stack) |
 | [0654-maximum-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0654-maximum-binary-tree) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Aarav01go/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
