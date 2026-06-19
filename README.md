@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Aarav01go/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Aarav01go/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Aarav01go/leetcode/tree/master/0274-h-index) |
+| [0289-game-of-life](https://github.com/Aarav01go/leetcode/tree/master/0289-game-of-life) |
 | [0349-intersection-of-two-arrays](https://github.com/Aarav01go/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Aarav01go/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/Aarav01go/leetcode/tree/master/0414-third-maximum-number) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aarav01go/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Aarav01go/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0289-game-of-life](https://github.com/Aarav01go/leetcode/tree/master/0289-game-of-life) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Aarav01go/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2048-build-array-from-permutation](https://github.com/Aarav01go/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Aarav01go/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Aarav01go/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Aarav01go/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Aarav01go/leetcode/tree/master/0079-word-search) |
+| [0289-game-of-life](https://github.com/Aarav01go/leetcode/tree/master/0289-game-of-life) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Aarav01go/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Aarav01go/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0994-rotting-oranges](https://github.com/Aarav01go/leetcode/tree/master/0994-rotting-oranges) |
