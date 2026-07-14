@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aarav01go/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aarav01go/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aarav01go/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/Aarav01go/leetcode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aarav01go/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Aarav01go/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aarav01go/leetcode/tree/master/0125-valid-palindrome) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Aarav01go/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/Aarav01go/leetcode/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/Aarav01go/leetcode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Aarav01go/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0860-design-circular-queue](https://github.com/Aarav01go/leetcode/tree/master/0860-design-circular-queue) |
