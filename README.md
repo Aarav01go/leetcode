@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/Aarav01go/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2815-max-pair-sum-in-an-array](https://github.com/Aarav01go/leetcode/tree/master/2815-max-pair-sum-in-an-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aarav01go/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aarav01go/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aarav01go/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Aarav01go/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Aarav01go/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/Aarav01go/leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2785-sort-vowels-in-a-string](https://github.com/Aarav01go/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aarav01go/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aarav01go/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Aarav01go/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Aarav01go/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aarav01go/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aarav01go/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Aarav01go/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aarav01go/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aarav01go/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3889-mirror-frequency-distance](https://github.com/Aarav01go/leetcode/tree/master/3889-mirror-frequency-distance) |
 ## Math
 |  |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Aarav01go/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aarav01go/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2864-maximum-odd-binary-number](https://github.com/Aarav01go/leetcode/tree/master/2864-maximum-odd-binary-number) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aarav01go/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Aarav01go/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Aarav01go/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3340-check-balanced-string](https://github.com/Aarav01go/leetcode/tree/master/3340-check-balanced-string) |
@@ -583,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aarav01go/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Aarav01go/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2864-maximum-odd-binary-number](https://github.com/Aarav01go/leetcode/tree/master/2864-maximum-odd-binary-number) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aarav01go/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Aarav01go/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Aarav01go/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aarav01go/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
