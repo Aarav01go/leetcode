@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aarav01go/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aarav01go/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/Aarav01go/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Aarav01go/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aarav01go/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0654-maximum-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0792-binary-search](https://github.com/Aarav01go/leetcode/tree/master/0792-binary-search) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Aarav01go/leetcode/tree/master/0367-valid-perfect-square) |
 | [0372-super-pow](https://github.com/Aarav01go/leetcode/tree/master/0372-super-pow) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Aarav01go/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0486-predict-the-winner](https://github.com/Aarav01go/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Aarav01go/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aarav01go/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Aarav01go/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Aarav01go/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Aarav01go/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Aarav01go/leetcode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Aarav01go/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Aarav01go/leetcode/tree/master/0509-fibonacci-number) |
 ## Combinatorics
 |  |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Aarav01go/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Aarav01go/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Aarav01go/leetcode/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/Aarav01go/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Aarav01go/leetcode/tree/master/0509-fibonacci-number) |
 | [0875-longest-mountain-in-array](https://github.com/Aarav01go/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Aarav01go/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -718,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Aarav01go/leetcode/tree/master/0486-predict-the-winner) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Aarav01go/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Aarav01go/leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## String Matching
