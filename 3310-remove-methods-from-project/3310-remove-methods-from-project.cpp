@@ -4,24 +4,24 @@ public:
         vector<vector<int>> adj(n);
         for (auto& inv : invocations)
             adj[inv[0]].push_back(inv[1]);
-        vector<bool> suspicious(n, false);
+        vector<bool> sus(n, false);
         queue<int> q;
         q.push(k);
-        suspicious[k] = true;
+        sus[k] = true;
         while (!q.empty()) {
             int node = q.front(); q.pop();
             for (int nb : adj[node])
-                if (!suspicious[nb]) { suspicious[nb] = true; q.push(nb); }
+                if (!sus[nb]) { sus[nb] = true; q.push(nb); }
         }
         for (auto& inv : invocations)
-            if (!suspicious[inv[0]] && suspicious[inv[1]]) {
+            if (!sus[inv[0]] && sus[inv[1]]) {
                 vector<int> all;
                 for (int i = 0; i < n; i++) all.push_back(i);
                 return all;
             }
         vector<int> result;
         for (int i = 0; i < n; i++)
-            if (!suspicious[i]) result.push_back(i);
+            if (!sus[i]) result.push_back(i);
         return result;
     }
 };
