@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/Aarav01go/leetcode/tree/master/2906-construct-product-matrix) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aarav01go/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aarav01go/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Aarav01go/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Aarav01go/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Aarav01go/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aarav01go/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-merge-nodes-in-between-zeros](https://github.com/Aarav01go/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Aarav01go/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Aarav01go/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Aarav01go/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Aarav01go/leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Aarav01go/leetcode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Aarav01go/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
