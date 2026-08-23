@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/Aarav01go/leetcode/tree/master/1840-maximum-building-height) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aarav01go/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/Aarav01go/leetcode/tree/master/1925-count-square-sum-triples) |
+| [1927-sum-game](https://github.com/Aarav01go/leetcode/tree/main/1927-sum-game/) | Medium |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Aarav01go/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Aarav01go/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Aarav01go/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Aarav01go/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/Aarav01go/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Aarav01go/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1927-sum-game](https://github.com/Aarav01go/leetcode/tree/main/1927-sum-game/) | Medium |
 | [2128-reverse-prefix-of-word](https://github.com/Aarav01go/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Aarav01go/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Aarav01go/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aarav01go/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aarav01go/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1833-maximum-ice-cream-bars](https://github.com/Aarav01go/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1927-sum-game](https://github.com/Aarav01go/leetcode/tree/main/1927-sum-game/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aarav01go/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Aarav01go/leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aarav01go/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -794,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Aarav01go/leetcode/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/Aarav01go/leetcode/tree/master/1510-stone-game-iv) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Aarav01go/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1927-sum-game](https://github.com/Aarav01go/leetcode/tree/main/1927-sum-game/) | Medium |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Aarav01go/leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## String Matching
 | Problem Name | Difficulty |
