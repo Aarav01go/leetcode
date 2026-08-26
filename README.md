@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2454-largest-local-values-in-a-matrix](https://github.com/Aarav01go/leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2463-minimum-total-distance-traveled](https://github.com/Aarav01go/leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Aarav01go/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Aarav01go/leetcode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Aarav01go/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2714-left-and-right-sum-differences](https://github.com/Aarav01go/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Aarav01go/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/Aarav01go/leetcode/tree/master/2169-simple-bank-system) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Aarav01go/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Aarav01go/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Aarav01go/leetcode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2815-max-pair-sum-in-an-array](https://github.com/Aarav01go/leetcode/tree/master/2815-max-pair-sum-in-an-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aarav01go/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aarav01go/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-merge-nodes-in-between-zeros](https://github.com/Aarav01go/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Aarav01go/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Aarav01go/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Aarav01go/leetcode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aarav01go/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Aarav01go/leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Aarav01go/leetcode/tree/master/3354-make-array-elements-equal-to-zero) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/Aarav01go/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/Aarav01go/leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Aarav01go/leetcode/tree/master/2491-smallest-even-multiple) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Aarav01go/leetcode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2571-find-the-pivot-integer](https://github.com/Aarav01go/leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2652-sum-multiples](https://github.com/Aarav01go/leetcode/tree/master/2652-sum-multiples) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Aarav01go/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
