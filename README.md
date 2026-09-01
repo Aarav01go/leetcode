@@ -824,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Aarav01go/leetcode/tree/master/0175-combine-two-tables) |
+| [0182-duplicate-emails](https://github.com/Aarav01go/leetcode/tree/main/0182-duplicate-emails/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
