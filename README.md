@@ -468,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Aarav01go/leetcode/tree/master/0782-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/Aarav01go/leetcode/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/Aarav01go/leetcode/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aarav01go/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0944-delete-columns-to-make-sorted](https://github.com/Aarav01go/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aarav01go/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Aarav01go/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Aarav01go/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/Aarav01go/leetcode/tree/master/0224-basic-calculator) |
 | [0654-maximum-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0654-maximum-binary-tree) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aarav01go/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Aarav01go/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Aarav01go/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Aarav01go/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Aarav01go/leetcode/tree/master/0134-gas-station) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aarav01go/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Aarav01go/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aarav01go/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Aarav01go/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Aarav01go/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1386-cinema-seat-allocation](https://github.com/Aarav01go/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -878,4 +881,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/Aarav01go/leetcode/tree/master/1510-stone-game-iv) |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aarav01go/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
