@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/Aarav01go/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aarav01go/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aarav01go/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aarav01go/leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aarav01go/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Aarav01go/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aarav01go/leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Aarav01go/leetcode/tree/master/0392-is-subsequence) |
 | [0875-longest-mountain-in-array](https://github.com/Aarav01go/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aarav01go/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aarav01go/leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aarav01go/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/Aarav01go/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aarav01go/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Aarav01go/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/Aarav01go/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Aarav01go/leetcode/tree/master/1840-maximum-building-height) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aarav01go/leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Aarav01go/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Aarav01go/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2126-destroying-asteroids](https://github.com/Aarav01go/leetcode/tree/master/2126-destroying-asteroids) |
@@ -659,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aarav01go/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aarav01go/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1833-maximum-ice-cream-bars](https://github.com/Aarav01go/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aarav01go/leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1927-sum-game](https://github.com/Aarav01go/leetcode/tree/main/1927-sum-game/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aarav01go/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aarav01go/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
