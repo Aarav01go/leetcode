@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/Aarav01go/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/Aarav01go/leetcode/tree/master/0877-stone-game) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Aarav01go/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
+| [0908-smallest-range-i](https://github.com/Aarav01go/leetcode/tree/main/0908-smallest-range-i/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/Aarav01go/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Aarav01go/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0994-rotting-oranges](https://github.com/Aarav01go/leetcode/tree/master/0994-rotting-oranges) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Aarav01go/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Aarav01go/leetcode/tree/master/0877-stone-game) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Aarav01go/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
+| [0908-smallest-range-i](https://github.com/Aarav01go/leetcode/tree/main/0908-smallest-range-i/) | Easy |
 | [1390-four-divisors](https://github.com/Aarav01go/leetcode/tree/master/1390-four-divisors) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Aarav01go/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Aarav01go/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
