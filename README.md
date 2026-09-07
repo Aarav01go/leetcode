@@ -493,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/Aarav01go/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Aarav01go/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1927-sum-game](https://github.com/Aarav01go/leetcode/tree/main/1927-sum-game/) | Medium |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Aarav01go/leetcode/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2128-reverse-prefix-of-word](https://github.com/Aarav01go/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Aarav01go/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Aarav01go/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -677,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Aarav01go/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aarav01go/leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1927-sum-game](https://github.com/Aarav01go/leetcode/tree/main/1927-sum-game/) | Medium |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Aarav01go/leetcode/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aarav01go/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aarav01go/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Aarav01go/leetcode/tree/master/2126-destroying-asteroids) |
