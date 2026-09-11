@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Aarav01go/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aarav01go/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Aarav01go/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Aarav01go/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Aarav01go/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Aarav01go/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aarav01go/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/Aarav01go/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Aarav01go/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aarav01go/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Aarav01go/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Aarav01go/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aarav01go/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Hash Table
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Aarav01go/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Aarav01go/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aarav01go/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Aarav01go/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Aarav01go/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Aarav01go/leetcode/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aarav01go/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -553,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Aarav01go/leetcode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/Aarav01go/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Aarav01go/leetcode/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Aarav01go/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
