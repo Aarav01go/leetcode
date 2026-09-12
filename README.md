@@ -556,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Aarav01go/leetcode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/Aarav01go/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Aarav01go/leetcode/tree/master/0509-fibonacci-number) |
+| [0894-all-possible-full-binary-trees](https://github.com/Aarav01go/leetcode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aarav01go/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -622,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Aarav01go/leetcode/tree/master/0509-fibonacci-number) |
 | [0875-longest-mountain-in-array](https://github.com/Aarav01go/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/Aarav01go/leetcode/tree/master/0877-stone-game) |
+| [0894-all-possible-full-binary-trees](https://github.com/Aarav01go/leetcode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Aarav01go/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1510-stone-game-iv](https://github.com/Aarav01go/leetcode/tree/master/1510-stone-game-iv) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Aarav01go/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -724,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Aarav01go/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Aarav01go/leetcode/tree/master/0509-fibonacci-number) |
+| [0894-all-possible-full-binary-trees](https://github.com/Aarav01go/leetcode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Aarav01go/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -756,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0654-maximum-binary-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/Aarav01go/leetcode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Aarav01go/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aarav01go/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -796,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0654-maximum-binary-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/Aarav01go/leetcode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Aarav01go/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aarav01go/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
