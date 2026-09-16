@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Aarav01go/leetcode/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Aarav01go/leetcode/tree/master/1046-last-stone-weight) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aarav01go/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Aarav01go/leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Aarav01go/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1306-minimum-absolute-difference](https://github.com/Aarav01go/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aarav01go/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Aarav01go/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [0892-surface-area-of-3d-shapes](https://github.com/Aarav01go/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0994-rotting-oranges](https://github.com/Aarav01go/leetcode/tree/master/0994-rotting-oranges) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Aarav01go/leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aarav01go/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Aarav01go/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Aarav01go/leetcode/tree/master/1791-richest-customer-wealth) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/Aarav01go/leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/Aarav01go/leetcode/tree/master/0877-stone-game) |
 | [0894-all-possible-full-binary-trees](https://github.com/Aarav01go/leetcode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Aarav01go/leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Aarav01go/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1510-stone-game-iv](https://github.com/Aarav01go/leetcode/tree/master/1510-stone-game-iv) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Aarav01go/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
