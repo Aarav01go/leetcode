@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Aarav01go/leetcode/tree/master/1390-four-divisors) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Aarav01go/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aarav01go/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aarav01go/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Aarav01go/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1580-shuffle-the-array](https://github.com/Aarav01go/leetcode/tree/master/1580-shuffle-the-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Aarav01go/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aarav01go/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Aarav01go/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1386-cinema-seat-allocation](https://github.com/Aarav01go/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aarav01go/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Aarav01go/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2169-simple-bank-system](https://github.com/Aarav01go/leetcode/tree/master/2169-simple-bank-system) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Aarav01go/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Aarav01go/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/Aarav01go/leetcode/tree/master/0792-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Aarav01go/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aarav01go/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aarav01go/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aarav01go/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Aarav01go/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -631,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0894-all-possible-full-binary-trees](https://github.com/Aarav01go/leetcode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Aarav01go/leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Aarav01go/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aarav01go/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1510-stone-game-iv](https://github.com/Aarav01go/leetcode/tree/master/1510-stone-game-iv) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Aarav01go/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Aarav01go/leetcode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
@@ -719,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Aarav01go/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aarav01go/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Aarav01go/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aarav01go/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Aarav01go/leetcode/tree/master/1652-defuse-the-bomb) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Aarav01go/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aarav01go/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
