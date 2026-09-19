@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/Aarav01go/leetcode/tree/main/0908-smallest-range-i/) | Easy |
 | [1390-four-divisors](https://github.com/Aarav01go/leetcode/tree/master/1390-four-divisors) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Aarav01go/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Aarav01go/leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Aarav01go/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1510-stone-game-iv](https://github.com/Aarav01go/leetcode/tree/master/1510-stone-game-iv) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Aarav01go/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -733,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Aarav01go/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0892-surface-area-of-3d-shapes](https://github.com/Aarav01go/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Aarav01go/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Aarav01go/leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
