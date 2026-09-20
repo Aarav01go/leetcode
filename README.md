@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-furthest-building-you-can-reach](https://github.com/Aarav01go/leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1652-defuse-the-bomb](https://github.com/Aarav01go/leetcode/tree/master/1652-defuse-the-bomb) |
 | [1656-count-good-triplets](https://github.com/Aarav01go/leetcode/tree/master/1656-count-good-triplets) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Aarav01go/leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aarav01go/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Aarav01go/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/Aarav01go/leetcode/tree/master/1773-count-items-matching-a-rule) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Aarav01go/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1386-cinema-seat-allocation](https://github.com/Aarav01go/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aarav01go/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Aarav01go/leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Aarav01go/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2169-simple-bank-system](https://github.com/Aarav01go/leetcode/tree/master/2169-simple-bank-system) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Aarav01go/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aarav01go/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Aarav01go/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aarav01go/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Aarav01go/leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aarav01go/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3889-mirror-frequency-distance](https://github.com/Aarav01go/leetcode/tree/master/3889-mirror-frequency-distance) |
 ## Math
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aarav01go/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/Aarav01go/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Aarav01go/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Aarav01go/leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Aarav01go/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aarav01go/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Aarav01go/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -501,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/Aarav01go/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Aarav01go/leetcode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [1678-goal-parser-interpretation](https://github.com/Aarav01go/leetcode/tree/master/1678-goal-parser-interpretation) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Aarav01go/leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aarav01go/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aarav01go/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Aarav01go/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
