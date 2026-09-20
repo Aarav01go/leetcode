@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aarav01go/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Aarav01go/leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Aarav01go/leetcode/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3498-reverse-degree-of-a-string](https://github.com/Aarav01go/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3614-process-string-with-special-operations-ii](https://github.com/Aarav01go/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Aarav01go/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Aarav01go/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Aarav01go/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aarav01go/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3340-check-balanced-string](https://github.com/Aarav01go/leetcode/tree/master/3340-check-balanced-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Aarav01go/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aarav01go/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Aarav01go/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Aarav01go/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
