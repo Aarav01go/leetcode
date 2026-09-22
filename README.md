@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Aarav01go/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0372-super-pow](https://github.com/Aarav01go/leetcode/tree/master/0372-super-pow) |
 | [0654-maximum-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0654-maximum-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Aarav01go/leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Aarav01go/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Sorting
 | Problem Name | Difficulty |
@@ -701,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aarav01go/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Aarav01go/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Aarav01go/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1382-balance-a-binary-search-tree](https://github.com/Aarav01go/leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Aarav01go/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Aarav01go/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1642-furthest-building-you-can-reach](https://github.com/Aarav01go/leetcode/tree/master/1642-furthest-building-you-can-reach) |
@@ -788,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Aarav01go/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aarav01go/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Aarav01go/leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Aarav01go/leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Aarav01go/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/Aarav01go/leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -807,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Aarav01go/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aarav01go/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Aarav01go/leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Aarav01go/leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Aarav01go/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -829,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Aarav01go/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aarav01go/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Aarav01go/leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Aarav01go/leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Aarav01go/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/Aarav01go/leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Graph
@@ -926,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aarav01go/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Aarav01go/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [1382-balance-a-binary-search-tree](https://github.com/Aarav01go/leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
