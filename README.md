@@ -904,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Aarav01go/leetcode/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/Aarav01go/leetcode/tree/main/0182-duplicate-emails/) | Easy |
+| [1693-daily-leads-and-partners](https://github.com/Aarav01go/leetcode/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Aarav01go/leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Aarav01go/leetcode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Trie
