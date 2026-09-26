@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Aarav01go/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/Aarav01go/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1791-richest-customer-wealth](https://github.com/Aarav01go/leetcode/tree/master/1791-richest-customer-wealth) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aarav01go/leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Aarav01go/leetcode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Aarav01go/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Aarav01go/leetcode/tree/master/1840-maximum-building-height) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aarav01go/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aarav01go/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Aarav01go/leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aarav01go/leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Aarav01go/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2169-simple-bank-system](https://github.com/Aarav01go/leetcode/tree/master/2169-simple-bank-system) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Aarav01go/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Aarav01go/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/Aarav01go/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Aarav01go/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aarav01go/leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/Aarav01go/leetcode/tree/main/1927-sum-game/) | Medium |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Aarav01go/leetcode/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2128-reverse-prefix-of-word](https://github.com/Aarav01go/leetcode/tree/master/2128-reverse-prefix-of-word) |
