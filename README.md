@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Aarav01go/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Aarav01go/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Aarav01go/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aarav01go/leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aarav01go/leetcode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Aarav01go/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Aarav01go/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aarav01go/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aarav01go/leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Aarav01go/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aarav01go/leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Aarav01go/leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2906-construct-product-matrix](https://github.com/Aarav01go/leetcode/tree/master/2906-construct-product-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aarav01go/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -665,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Aarav01go/leetcode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Aarav01go/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Aarav01go/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aarav01go/leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/Aarav01go/leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aarav01go/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3524-find-x-value-of-array-i](https://github.com/Aarav01go/leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -978,4 +981,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aarav01go/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aarav01go/leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aarav01go/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aarav01go/leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
