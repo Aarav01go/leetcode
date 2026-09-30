@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/Aarav01go/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1791-richest-customer-wealth](https://github.com/Aarav01go/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aarav01go/leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Aarav01go/leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Aarav01go/leetcode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Aarav01go/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Aarav01go/leetcode/tree/master/1840-maximum-building-height) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Aarav01go/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/Aarav01go/leetcode/tree/master/0289-game-of-life) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Aarav01go/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Aarav01go/leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2048-build-array-from-permutation](https://github.com/Aarav01go/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Aarav01go/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aarav01go/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Aarav01go/leetcode/tree/master/1510-stone-game-iv) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Aarav01go/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Aarav01go/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Aarav01go/leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1840-maximum-building-height](https://github.com/Aarav01go/leetcode/tree/master/1840-maximum-building-height) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aarav01go/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/Aarav01go/leetcode/tree/master/1925-count-square-sum-triples) |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Aarav01go/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Aarav01go/leetcode/tree/master/0509-fibonacci-number) |
 | [0894-all-possible-full-binary-trees](https://github.com/Aarav01go/leetcode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Aarav01go/leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aarav01go/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -690,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0860-design-circular-queue](https://github.com/Aarav01go/leetcode/tree/master/0860-design-circular-queue) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Aarav01go/leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
