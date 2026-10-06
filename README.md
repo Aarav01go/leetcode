@@ -554,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aarav01go/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Aarav01go/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Aarav01go/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Aarav01go/leetcode/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aarav01go/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3340-check-balanced-string](https://github.com/Aarav01go/leetcode/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aarav01go/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -775,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Aarav01go/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aarav01go/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Aarav01go/leetcode/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Aarav01go/leetcode/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
