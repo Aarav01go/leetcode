@@ -517,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Aarav01go/leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Aarav01go/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Aarav01go/leetcode/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/Aarav01go/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/Aarav01go/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Aarav01go/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Aarav01go/leetcode/tree/master/0392-is-subsequence) |
@@ -900,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Aarav01go/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Aarav01go/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Aarav01go/leetcode/tree/master/0079-word-search) |
+| [0301-remove-invalid-parentheses](https://github.com/Aarav01go/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0784-letter-case-permutation](https://github.com/Aarav01go/leetcode/tree/master/0784-letter-case-permutation) |
 | [0797-all-paths-from-source-to-target](https://github.com/Aarav01go/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1096-brace-expansion-ii](https://github.com/Aarav01go/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -915,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Aarav01go/leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Aarav01go/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Aarav01go/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/Aarav01go/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0993-cousins-in-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0993-cousins-in-binary-tree) |
