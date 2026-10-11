@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Aarav01go/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2714-left-and-right-sum-differences](https://github.com/Aarav01go/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Aarav01go/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Aarav01go/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2815-max-pair-sum-in-an-array](https://github.com/Aarav01go/leetcode/tree/master/2815-max-pair-sum-in-an-array) |
 | [2906-construct-product-matrix](https://github.com/Aarav01go/leetcode/tree/master/2906-construct-product-matrix) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Aarav01go/leetcode/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aarav01go/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/Aarav01go/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Aarav01go/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Aarav01go/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aarav01go/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aarav01go/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Aarav01go/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
