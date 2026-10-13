@@ -859,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Aarav01go/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Aarav01go/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Aarav01go/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/Aarav01go/leetcode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
@@ -881,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Aarav01go/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Aarav01go/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Aarav01go/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/Aarav01go/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0993-cousins-in-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0993-cousins-in-binary-tree) |
@@ -904,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Aarav01go/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Aarav01go/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Aarav01go/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/Aarav01go/leetcode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
@@ -1019,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Aarav01go/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aarav01go/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Aarav01go/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Aarav01go/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Aarav01go/leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
