@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Aarav01go/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aarav01go/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aarav01go/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Aarav01go/leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Aarav01go/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Aarav01go/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Enumeration
@@ -680,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/Aarav01go/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Aarav01go/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Aarav01go/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Aarav01go/leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1014,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aarav01go/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Aarav01go/leetcode/tree/master/3310-remove-methods-from-project) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Aarav01go/leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
