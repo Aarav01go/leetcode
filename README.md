@@ -697,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Aarav01go/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aarav01go/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aarav01go/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aarav01go/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Aarav01go/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Aarav01go/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Aarav01go/leetcode/tree/master/0392-is-subsequence) |
@@ -863,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aarav01go/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Aarav01go/leetcode/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aarav01go/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Aarav01go/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/Aarav01go/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Aarav01go/leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -887,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Aarav01go/leetcode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Aarav01go/leetcode/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aarav01go/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Aarav01go/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Aarav01go/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0226-invert-binary-tree) |
@@ -910,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aarav01go/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aarav01go/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Aarav01go/leetcode/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aarav01go/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Aarav01go/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/Aarav01go/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Aarav01go/leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -1076,4 +1080,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aarav01go/leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aarav01go/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 <!---LeetCode Topics End-->
