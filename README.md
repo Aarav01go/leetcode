@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Aarav01go/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Aarav01go/leetcode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Aarav01go/leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aarav01go/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2714-left-and-right-sum-differences](https://github.com/Aarav01go/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Aarav01go/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aarav01go/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/Aarav01go/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Aarav01go/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Aarav01go/leetcode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aarav01go/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2815-max-pair-sum-in-an-array](https://github.com/Aarav01go/leetcode/tree/master/2815-max-pair-sum-in-an-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aarav01go/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aarav01go/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Aarav01go/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aarav01go/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Aarav01go/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aarav01go/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aarav01go/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Aarav01go/leetcode/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Aarav01go/leetcode/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
