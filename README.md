@@ -603,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aarav01go/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Aarav01go/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Aarav01go/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Aarav01go/leetcode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 | [3889-mirror-frequency-distance](https://github.com/Aarav01go/leetcode/tree/master/3889-mirror-frequency-distance) |
 ## Stack
 | Problem Name | Difficulty |
