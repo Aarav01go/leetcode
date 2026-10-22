@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/Aarav01go/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Aarav01go/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/Aarav01go/leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Aarav01go/leetcode/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
